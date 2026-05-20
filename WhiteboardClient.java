@@ -6,7 +6,7 @@ package Whiteboard;
 
 /**
  *
- * @author SUBRATA LAHA
+ *
  */
 
 import javax.swing.*;
